@@ -1,0 +1,48 @@
+
+MDF has to be placed in the centre. 
+- will have high end switches
+- will have routers
+- have outside the wall P.O.P 
+- will have servers
+
+IDF's
+- One per floor
+- contains low end switches 
+- 24 ports/ 48 ports
+- number of IDF's will determine how many ports
+
+IDF's to Hosts
+- 24 port switch means 24 patch panels
+- Max length is 6m 
+- Max length is 90m
+- connected using copper
+horizontal run
+
+IDF to MDF is connected using fibre
+
+blue or yellow for fibre 
+red for 
+
+use iPv4 
+
+Overview 
+Write list should contain:
+
+Cable types
+Color codes
+Number every cable
+Description of every cable... usage
+Remember every cable in every building is unique
+
+
+
+
+
+
+
+
+
+
+
+
+
